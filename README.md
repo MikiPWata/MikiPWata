@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello Hello! This is Miki 👋
+
+I'm a 4th year undergrad student in Toronto 🇨🇦, SRE intern 👩‍💻 and data science/ML enthusiast 🧑‍🔬!
 
 <!--
 **MikiPWata/MikiPWata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
